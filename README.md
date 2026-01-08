@@ -190,7 +190,7 @@ JupyterLab 官方生态里就有 Git 插件，能在 JupyterLab 里直接完成 
 ![JupyterLab Git 插件截图](jupyterlab-git-commit.png)
 
 
-![git 合并演示](![git 合并演示](backup/use_git.gif))
+![git 合并演示](backup/use_git.gif)
 
-如需合并（merge）分支、解决冲突或演示如何提交合并操作，可参考上图的 `use_git.gif` 动图。请按照规范使用 git 工具进行代码合并与协作，确保工作区和主分支同步、无冲突。
+如需合并（merge）分支、解决冲突、或提交合并操作，可参考上方 `use_git.gif` 动图。建议通过 JupyterLab Git 插件或其他 IDE 自带 Git 工具，规范操作，确保代码协作同步且无冲突。
 
