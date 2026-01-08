@@ -40,8 +40,9 @@ glb_equal/
 ├── figure/                  # 图表输出目录 (gitignore)
 │   └── 3d_density_*.png         # 3D密度图PNG格式
 │
-├── functions/               # 函数模块（如适用）
-│   └── (待添加函数文件)
+├── functions/               # 函数模块
+│   ├── __init__.py         # 模块初始化文件
+│   └── global_variables.py # 全局变量配置文件
 │
 │
 │                           #（这部分在主目录当中，记录你的分析过程）
